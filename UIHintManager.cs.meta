@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb3c98d9709c1bf419262d1b87cc80f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteToUse: {fileID: 21300000, guid: 08c0215fa13375c44bf5c4873fbf3b6c, type: 3}
+  - keyboardSpriteToUse: {fileID: 21300000, guid: a08b0400924dc8143b9183bf670fe8fa,
+      type: 3}
+  - materialToUse: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
